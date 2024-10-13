@@ -1,0 +1,19 @@
+## @Mugamba669
+### Audio Visualiser with shaders, AudioApi and THREE.js
+
+## Technologies used
+- THREE.js
+- WebGL
+- Web Audio API
+- WebGL Shaders
+- HTML5 Canvas
+- CSS3
+- JavaScript
+- Vite
+
+## screenshots
+- Fractal Shader
+![Screenshot](./Screenshot1.png)
+- Plasma Shader
+  
+  ![Screenshot](./Screenshot2.png)
